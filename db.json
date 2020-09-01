@@ -1,12 +1,31 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
-      "speaker": "Dr. Satya Prakash",
-      "dept": "Department Department of Pediatrics, AIIMS, New Delhi",
-      "video": "S_Ip0A4jYwE"
+  "id": 1,
+  "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
+  "speaker": "Dr. Satya Prakash",
+  "dept": "Department Department of Pediatrics, AIIMS, New Delhi",
+  "video": "S_Ip0A4jYwE",
+  "section": [
+    {
+      "time": "10",
+      "title": "sec1"
     },
+    {
+      "time": "20",
+      "title": "sec2"
+    },
+    null,
+    {
+      "time": "30",
+      "title": "sec3"
+    },
+    {
+      "time": "40",
+      "title": "sec4"
+    }
+  ]
+},
     {
       "id": 2,
       "title": "Kurian Uncle",
