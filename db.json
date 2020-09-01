@@ -6,7 +6,7 @@
       "speaker": "Dr. Satya Prakash",
       "dept": "Department Department of Pediatrics, AIIMS, New Delhi",
       "video": "S_Ip0A4jYwE", 
-      "sections": [{"time":0, "title":sec1},{"time":20, "title":sec2},{"time":30, "title":sec3},{"time":40, "title":sec4},{"time":50, "title":sec5},],
+      "sections": [{"time":0, "title": "sec1"},{"time":20, "title": "sec2"},{"time":30, "title":"sec3"},{"time":40, "title": "sec4"},{"time":50, "title": "sec5"},],
     },
     {
       "id": 2,
