@@ -1,5 +1,5 @@
 {
-  "webinar": [
+  "webinars": [
     {
   "id": 1,
   "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
@@ -43,29 +43,29 @@
   },
   "sections": [
     {
-      "webinar id":1,
+      "webinarId":1,
       "id": 1,
       "time": "10",
       "title": "sec1"
     },
-    {"webinar id":1,
+    {"webinarId":1,
       "id": 2,      
       "time": "20",
       "title": "sec2"
     },
     {
-      "webinar id":1,
+      "webinarId":1,
       "id": 3,      
       "time": "30",
       "title": "sec3"
     },
-    {"webinar id":1,
+    {"webinarId":1,
       "id": 4,      
       "time": "40",
       "title": "sec4"
     },
  {
-      "webinar id":2,
+      "webinarId":2,
       "id": 1,
       "time": "80",
       "title": "sec1"
