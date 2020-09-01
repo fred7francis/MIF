@@ -8,14 +8,13 @@
   "video": "S_Ip0A4jYwE",
   "section": [
     {
-      "time": "10",
+      "time": "5",
       "title": "sec1"
     },
     {
       "time": "20",
       "title": "sec2"
     },
-    null,
     {
       "time": "30",
       "title": "sec3"
