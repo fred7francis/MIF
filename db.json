@@ -1,31 +1,11 @@
 {
-  "posts": [
+  "webinar": [
     {
   "id": 1,
   "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
   "speaker": "Dr. Satya Prakash",
   "dept": "Department Department of Pediatrics, AIIMS, New Delhi",
-  "video": "S_Ip0A4jYwE",
-  "section": [
-    {
-      "id": 1,
-      "time": "10",
-      "title": "sec1"
-    },
-    {
-      "time": "20",
-      "title": "sec2"
-    },
-    null,
-    {
-      "time": "30",
-      "title": "sec3"
-    },
-    {
-      "time": "40",
-      "title": "sec4"
-    }
-  ]
+  "video": "S_Ip0A4jYwE"
 },
     {
       "id": 2,
@@ -61,4 +41,34 @@
   "profile": {
     "name": "typicode"
   }
+  "sections": [
+    {
+      "webinar id":1,
+      "id": 1,
+      "time": "10",
+      "title": "sec1"
+    },
+    {"webinar id":1,
+      "id": 2,      
+      "time": "20",
+      "title": "sec2"
+    },
+    {
+      "webinar id":1,
+      "id": 3,      
+      "time": "30",
+      "title": "sec3"
+    },
+    {"webinar id":1,
+      "id": 4,      
+      "time": "40",
+      "title": "sec4"
+    },
+ {
+      "webinar id":2,
+      "id": 1,
+      "time": "80",
+      "title": "sec1"
+    }
+  ]
 }
