@@ -7,19 +7,19 @@
   "dept": "Department Department of Pediatrics, AIIMS, New Delhi",
   "video": "S_Ip0A4jYwE",
   "section": [
-    {
+    {  "id": 1,
       "time": "5",
       "title": "sec1"
     },
-    {
+    {"id": 2,
       "time": "20",
       "title": "sec2"
     },
-    {
+    {"id": 3,
       "time": "30",
       "title": "sec3"
     },
-    {
+    {"id": 4,
       "time": "40",
       "title": "sec4"
     }
