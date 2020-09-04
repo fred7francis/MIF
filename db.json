@@ -1,61 +1,22 @@
 {
   "webinars": [
-    {
-  "id": 1,
-  "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
-  "speaker": "Dr. Satya Prakash",
-  "dept": "Department Department of Pediatrics, AIIMS, New Delhi",
-  "video": "S_Ip0A4jYwE",
-  "section": [
-    {  "id": 1,
-      "time": "0",
-      "title": "sec1"
-    },
-    {"id": 2,
-      "time": "10",
-      "title": "sec2"
-    },
-    {"id": 3,
-      "time": "20",
-      "title": "sec3"
-    },
-    {"id": 4,
-      "time": "30",
-      "title": "sec4"
-    }
-  ]  
-},
-    {
-      "id": 2,
-      "title": "Kurian",
-      "speaker": "Dr. Satya",
-      "dept": "MIG pocket 6"
-    },
-    {
-      "id": 3,
-      "title": "Felix",
-      "speaker": "Dr. Satya Prakash",
-      "dept": "Department Department of Pediatrics, AIIMS, New Delhi"
-    },
-    {
-      "id": 4,
-      "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
-      "speaker": "Dr. Satya Prakash",
-      "dept": "Department Department of Pediatrics, AIIMS, New Delhi"
-    },
-    {
-      "id": 5,
-      "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
-      "speaker": "Dr. Satya Prakash",
-      "dept": "Department Department of Pediatrics, AIIMS, New Delhi"
-    },
-    {
-      "id": 6,
-      "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
-      "speaker": "Dr. Satya Prakash",
-      "dept": "Department Department of Pediatrics, AIIMS, New Delhi"
-    }
-  ],
+ {
+   "id": 1,
+   "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
+   "speaker": "Dr. Satya Prakash",
+   "dept": "Department Department of Pediatrics, AIIMS, New Delhi",
+   "video": "S_Ip0A4jYwE",
+   "section": ""
+ },
+ {
+   "id": 2,
+   "title": "How to Optimise care of Neonates during COVID 19",
+   "speaker": "Dr.Anu",
+   "dept": "Department Department of Pediatrics, AIIMS, New Delhi",
+   "video": "NzxZM29Xsv0",
+   "section": ""
+ }
+],
   "profile": {
     "name": "typicode"
   },
